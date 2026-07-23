@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dkdjcj.github.io/dunstan-manufacturing/sitemap.xml
